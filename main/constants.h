@@ -22,7 +22,7 @@ const char* ssid = "KIET_ROUTE_!";
 const char* password = "DFGUG&^@#*F";
 
 const char* ctopApi = "https://ctop.iiit.ac.in/api/nodes/create-cin/20";
-const char* authToken = "a64c0e30b6ad0069f1ba920171b6ca1c";
+const char* authToken = "token";
 
 float m_pm2 = 0.0007842824264254494;
 float c_pm2 = 0.007693018993987527;
@@ -162,7 +162,7 @@ const char* ssid = "CLASSKG9";
 const char* password = "kw@12345";
 
 const char* ctopApi = "https://ctop.iiit.ac.in/api/nodes/create-cin/387";
-const char* authToken = "bfb502d7b83786a95e960e7c7cd4cf70";
+const char* authToken = "token";
 
 float m_pm2 = 1.0;
 float c_pm2 = 0.0;
